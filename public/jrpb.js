@@ -63,7 +63,7 @@ var ddos = new Ddos({burst:4,limit:30,testmode:true,whitelist:['177.200.119.217'
 
 /////\\\\
 
-var key = ["ale203", "key-expr"] 
+var key = ["izanami2022", "izanami"] 
 
 /////\\\\
 const router = express.Router();
